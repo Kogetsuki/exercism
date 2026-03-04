@@ -13,5 +13,3 @@ def factors(value):
 
   return result
 
-
-print(factors(2))
